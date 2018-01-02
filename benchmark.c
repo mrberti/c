@@ -6,7 +6,7 @@
   Use gcc -lm
   **/
 
-#define MAX_N 123456789
+#define MAX_N 100000000
 int main()
 {
 	clock_t start, end;
